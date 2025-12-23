@@ -70,4 +70,4 @@ This prototype was built to demonstrate practical solutions to technical challen
 * **Containerization:** Dockerizing the application for cloud deployment (Kubernetes/OpenShift).
 
 ## 👤 Author
-**Fares** 
+**Fares J** 
