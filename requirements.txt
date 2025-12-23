@@ -1,0 +1,10 @@
+streamlit
+langchain-chroma
+langchain-google-genai
+langchain-community
+langchain-core
+google-generativeai
+pypdf
+chromadb
+pillow
+pysqlite3-binary
