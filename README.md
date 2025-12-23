@@ -43,7 +43,7 @@ This prototype was built to demonstrate practical solutions to technical challen
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ericsson-multimodal-rag.git](https://github.com/YOUR_USERNAME/ericsson-multimodal-rag.git)
+    git clone [https://github.com/KnightBytePy/ericsson-multimodal-rag.git](https://github.com/KnightBytePy/ericsson-multimodal-rag.git)
     cd ericsson-multimodal-rag
     ```
 
