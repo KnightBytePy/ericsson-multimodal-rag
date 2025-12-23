@@ -112,7 +112,7 @@ if prompt_text := st.chat_input("Ex: What is the trend for 5G subscriptions?"):
             answer = robust_invoke(chain, prompt_text)
             st.markdown(answer)
 
-            failure_triggers = ["i could not find", "does not mention", "no information provided"]
+            failure_triggers = ["i could not find", "does not mention", "no information provided", "i can only answer", "does not contain"]
             is_failure = any(trigger in answer.lower() for trigger in failure_triggers)
 
             if not is_failure:
