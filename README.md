@@ -1,6 +1,6 @@
 # 📶 Ericsson Mobility Report: Multi-Modal RAG Agent
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-link-here)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ericson-multimodal-rag.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-orange)
 ![Gemini](https://img.shields.io/badge/AI-Gemini%202.0%20Flash-magenta)
@@ -70,4 +70,4 @@ This prototype was built to demonstrate practical solutions to technical challen
 * **Containerization:** Dockerizing the application for cloud deployment (Kubernetes/OpenShift).
 
 ## 👤 Author
-**Fares Jony** [LinkedIn](https://www.linkedin.com/in/faresjony/)
+**Fares** 
