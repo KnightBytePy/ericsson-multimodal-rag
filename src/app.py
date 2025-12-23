@@ -42,7 +42,7 @@ def load_chain():
 
     retriever = vector_db.as_retriever(search_kwargs={"k": 3})
 
-    llm = ChatGoogleGenerativeAI(model="gemini-3-flash", temperature=0.1)
+    llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.1)
 
     template = """
         You are an expert analyst summarizing the Ericsson Mobility Report.
