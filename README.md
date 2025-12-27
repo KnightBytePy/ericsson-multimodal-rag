@@ -66,6 +66,7 @@ This prototype was built to demonstrate practical solutions to technical challen
 ---
 
 ## 🔮 Future Roadmap
+* **Improve Model:** Added reranking method; however, due to timeline I opted out as the goal wasn't to make the perfect RAG model but to build out ideas and collaborate with team.
 * **Graph Neural Networks (GNNs):** Exploring the application of GNNs for network optimization and topology analysis, moving beyond retrieval into predictive modeling.
 * **Containerization:** Dockerizing the application for cloud deployment (Kubernetes/OpenShift).
 
